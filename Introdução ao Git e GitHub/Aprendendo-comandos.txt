@@ -1,0 +1,29 @@
+O que vamos aprender?
+- Mudar de pastas
+- Listar as pastas
+- Criar pastas/arquivos
+- Deletar pastas/arquivos
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+dir = vai listar os diretórios
+cd / = navegar para uma pasta específica
+cd "nome da pasta" = para entrar em uma pasta 
+cd .. = volta um nível
+Ctrl+l/clear = limpa o terminal
+Tab = alto completa
+"seta pra cima" = sobe a linha de texto
+
+*Criando pastas:
+
+mkdir "colocar nome da pasta" = vai criar um diretório
+echo "inserir palavra" = printa de volta no terminal a palavra que você colocou
+echo "inserir palavra" > "palavra inserida".txt = cria arquivo
+del "nome do diretório" = deleta o arquivo que vai estar dentro da pasta
+rmdir "nome do diretório" /S /Q = deletar todo o repositório/pasta
+
+
+
+
+
+

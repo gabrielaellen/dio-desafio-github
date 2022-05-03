@@ -1,0 +1,10 @@
+*Comandos:
+
+git init - cria um repositório
+git add - vai adicionar os arquivos para serem 'commitados'
+git status = monitora o status dos arquivos
+mv "nome do arquivo" ./"nome da pasta"/ = move arquivos para dento de outra pasta
+git add "nome do arquivo" / = modifica o estados dos arquivos para staged
+git add * = pega tudo que foi modificado e adiciona ao staged para poder commitar
+git commit -m "crie mensagem a ser passada" = cria um commit
+
